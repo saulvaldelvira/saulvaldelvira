@@ -1,4 +1,4 @@
-### Hi! im Saúl.
+###Saúl.
 
-Im just a computer engineering student.<br>
+Im a student.<br>
 Contact: saulvaldelvira@gmail.com
